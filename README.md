@@ -6,7 +6,7 @@
 
 - 🎓 Estudante de Tecnologia da Informação, com foco em desenvolvimento de software e interesse em atuar em ambientes colaborativos, aplicando e expandindo conhecimentos técnicos.
 - 💻 Experiência prática em linguagens como C, PHP, HTML, CSS e atualmente estudando Python.
-- 🏢 Atuei na MCastro Engenharia do Lazer no desenvolvimento de um site institucional e de uma ferramenta de gestão empresarial personalizada.
+- 🏢 Atuei na MCastro Engenharia do Lazer no desenvolvimento de um site institucional e de uma ferramenta de gestão empresarial.
 - 🛢️ Experiência com banco de dados MySQL.
 
 <div style="display: inline_block; margin-bottom: 500px;"><br>
