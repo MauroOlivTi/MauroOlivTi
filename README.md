@@ -5,6 +5,7 @@
 </div>
 
 - 🎓 Estudante de Tecnologia da Informação, com foco em desenvolvimento de software e interesse em atuar em ambientes colaborativos, aplicando e expandindo conhecimentos técnicos.
+- 👾 Buscando oportunidade como Dev Júnior ou Estagiário.
 - 💻 Experiência prática em linguagens como C, PHP, HTML, CSS e atualmente estudando Python.
 - 🏢 Atuei na MCastro Engenharia do Lazer no desenvolvimento de um site institucional e de uma ferramenta de gestão empresarial.
 - 🛢️ Experiência com banco de dados MySQL.
